@@ -1,2 +1,0 @@
-Flight Booking Chat Bot link ->
-https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?region=au-syd&integrationID=3578a646-3032-46c3-8d7a-2c90fbcc6b15&serviceInstanceID=b8a45703-f382-4c21-883f-f1312d2eddf5
