@@ -1,4 +1,4 @@
-## Flight-Booking-Chat-Bot
+## Flight-Ticket-Booking-Chat-Bot
 Flight Booking Chat Bot Using Waston Assistant
 
 Developed a chatbot for booking flights with Watson Assistant and integrated it with WhatsApp using Twillio.
