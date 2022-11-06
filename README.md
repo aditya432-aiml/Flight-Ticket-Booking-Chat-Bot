@@ -1,5 +1,14 @@
-# Flight-Booking-Chat-Bot
+## Flight-Booking-Chat-Bot
 Flight Booking Chat Bot Using Waston Assistant
+
+Developed a chatbot for booking flights with Watson Assistant and integrated it with WhatsApp using Twillio.
+
+* I described entities and intentions.
+* I created a Dialogflow in accordance with the flowchart.
+* I used Twillio to interface it with WhatsApp.
+
+# Chatbot functionality within a web interface.
+
 ![Screenshot (112)](https://user-images.githubusercontent.com/81558819/200171726-4715df12-3cc2-42a0-88a3-039a926543c5.png)
 ![Screenshot (113)](https://user-images.githubusercontent.com/81558819/200171728-ee994ed1-43e2-46b1-89cc-e44e213732ce.png)
 ![Screenshot (114)](https://user-images.githubusercontent.com/81558819/200171730-372c8ea7-7fc8-4b05-aa95-9dc7cd754c8c.png)
@@ -9,9 +18,7 @@ Flight Booking Chat Bot Using Waston Assistant
 ![Screenshot (118)](https://user-images.githubusercontent.com/81558819/200171737-7a145342-9df2-4369-afc6-4dc386c5087e.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/81558819/200171720-cc3d168a-d50d-424f-a083-2fec299c889b.png)
 
-
-https://user-images.githubusercontent.com/81558819/200172341-792b7f6d-9a33-4d13-b05c-1a2515761c16.mp4
-
+# Chatbot functionality within a WhatsApp interface.
 
 ![Screenshot_2022-11-06-18-24-44-46_6012fa4d4ddec268fc5c7112cbb265e7](https://user-images.githubusercontent.com/81558819/200172350-e11f3a7e-72fe-4a4c-a37f-e248b32f64b0.jpg)
 ![Screenshot_2022-11-06-18-24-56-02_6012fa4d4ddec268fc5c7112cbb265e7](https://user-images.githubusercontent.com/81558819/200172353-a85ebff9-963b-4c2e-ad42-1378593e0dcd.jpg)
