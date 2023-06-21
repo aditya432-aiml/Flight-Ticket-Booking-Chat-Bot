@@ -1,11 +1,11 @@
 ## Flight-Ticket-Booking-Chat-Bot
-Flight Ticket Booking Chat Bot Using Waston Assistant
+Flight Ticket Booking Chat Bot Using Waston Assistant Demo
 
-Developed a chatbot for booking flight tickets with Watson Assistant and integrated it with WhatsApp using Twillio.
-
-* I described entities and intents.
-* I created a Dialogflow in accordance with the flowchart.
-* I used Twillio to connect it with WhatsApp and just did sandbox testing with it.
+* Developed a comprehensive demo chatbot for booking flight tickets using IBM Watson Assistant.
+* Implemented Intents and Entities to enhance the chatbot's understanding and response capabilities.
+* Created a well-structured Dialogflow based on a meticulously designed flowchart to ensure a smooth user experience.
+* Integrated the chatbot with the WhatsApp platform by leveraging Twilio's services.
+* Conducted thorough sandbox tests to validate the functionality and effectiveness of the chatbot-WhatsApp integration.
 
 # Chatbot functionality within a web interface.
 
